@@ -1,0 +1,9 @@
+# Exclude unnecessary files from Railway build
+frontend/
+node_modules/
+.git/
+.gitignore
+README.md
+DEPLOYMENT_GUIDE.md
+deploy*.ps1
+test-deployment.py

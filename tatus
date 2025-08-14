@@ -1,0 +1,84 @@
+warning: in the working copy of 'frontend/src/components/ui/accordion.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/alert-dialog.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/alert.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/avatar.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/badge.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/breadcrumb.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/button.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/calendar.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/card.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/carousel.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/checkbox.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/command.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/context-menu.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/dialog.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/drawer.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/dropdown-menu.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/form.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/hover-card.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/input-otp.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/input.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/label.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/menubar.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/navigation-menu.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/pagination.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/popover.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/progress.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/radio-group.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/resizable.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/scroll-area.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/select.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/separator.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/sheet.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/skeleton.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/slider.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/switch.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/table.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/tabs.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/textarea.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/toast.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/toggle-group.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/toggle.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'frontend/src/components/ui/tooltip.jsx', LF will be replaced by CRLF the next time Git touches it
+frontend/src/components/ui/accordion.jsx
+frontend/src/components/ui/alert-dialog.jsx
+frontend/src/components/ui/alert.jsx
+frontend/src/components/ui/avatar.jsx
+frontend/src/components/ui/badge.jsx
+frontend/src/components/ui/breadcrumb.jsx
+frontend/src/components/ui/button.jsx
+frontend/src/components/ui/calendar.jsx
+frontend/src/components/ui/card.jsx
+frontend/src/components/ui/carousel.jsx
+frontend/src/components/ui/checkbox.jsx
+frontend/src/components/ui/command.jsx
+frontend/src/components/ui/context-menu.jsx
+frontend/src/components/ui/dialog.jsx
+frontend/src/components/ui/drawer.jsx
+frontend/src/components/ui/dropdown-menu.jsx
+frontend/src/components/ui/form.jsx
+frontend/src/components/ui/hover-card.jsx
+frontend/src/components/ui/input-otp.jsx
+frontend/src/components/ui/input.jsx
+frontend/src/components/ui/label.jsx
+frontend/src/components/ui/menubar.jsx
+frontend/src/components/ui/navigation-menu.jsx
+frontend/src/components/ui/pagination.jsx
+frontend/src/components/ui/popover.jsx
+frontend/src/components/ui/progress.jsx
+frontend/src/components/ui/radio-group.jsx
+frontend/src/components/ui/resizable.jsx
+frontend/src/components/ui/scroll-area.jsx
+frontend/src/components/ui/select.jsx
+frontend/src/components/ui/separator.jsx
+frontend/src/components/ui/sheet.jsx
+frontend/src/components/ui/skeleton.jsx
+frontend/src/components/ui/slider.jsx
+frontend/src/components/ui/switch.jsx
+frontend/src/components/ui/table.jsx
+frontend/src/components/ui/tabs.jsx
+frontend/src/components/ui/textarea.jsx
+frontend/src/components/ui/toast.jsx
+frontend/src/components/ui/toggle-group.jsx
+frontend/src/components/ui/toggle.jsx
+frontend/src/components/ui/tooltip.jsx
