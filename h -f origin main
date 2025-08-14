@@ -1,0 +1,32 @@
+[33m034b666[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Fix Railway configuration for Python detection
+[33m235d7f8[m Fix Railway configuration for Python detection
+[33m5940cfa[m Fix Railway configuration for Python detection
+[33meaa714a[m Fix Railway configuration for Python detection
+[33mb9b93e3[m Fix Railway configuration for Python detection
+[33mc76240e[m Fix Railway configuration for Python detection
+[33m6a19a42[m Fix Railway configuration for Python detection
+[33m27d242b[m Fix Railway configuration for Python detection
+[33m9738243[m Fix Railway configuration for Python detection
+[33m458921f[m Fix Railway configuration for Python detection
+[33m5a01381[m Fix Railway configuration for Python detection
+[33m4d5d7ff[m Fix Railway configuration for Python detection
+[33me306750[m Fix Railway configuration for Python detection
+[33m5a06bf7[m Fix Railway configuration for Python detection
+[33m2b4d2b0[m Fix Railway configuration for Python detection
+[33m259a8ba[m Fix Railway configuration for Python detection
+[33m5f97bda[m Fix all ESLint warnings: remove unused imports and variables
+[33mb3b074e[m Fix Railway configuration for Python detection
+[33m9cf8dc2[m Fix ESLint errors: add missing icon imports and useEmotion hook
+[33m26d1be2[m Fix import paths for UI components - resolve ../lib/utils to ../../lib/utils
+[33mb4ef842[m Add frontend/src/lib/utils.js to fix Netlify build error
+[33m7cf88f9[m Fix import paths for UI components - resolve ../lib/utils to ../../lib/utils
+[33me4b0027[m Fix Netlify build configuration and import paths - move netlify.toml to root, fix UI component imports
+[33m3c32347[m Fix UI component import paths - resolve ../../lib/utils to ../lib/utils
+[33mefdb422[m Fix Node.js version - specify stable v18.19.0 for Netlify
+[33m06ed09d[m Fix babel dependency warning
+[33m7decef2[m Fix Railway configuration for Python detection
+[33mc89e9bd[m Fix Railway configuration for Python detection
+[33mb542c0f[m Fix Railway configuration for Python detection
+[33m26acf39[m Add Railway configuration
+[33m3c9f5ee[m first commit
+[33m9b8b531[m Initial commit: OrbSocial - Advanced Emotional Universe with PDF Export, AI Integration, and Enhanced Features
